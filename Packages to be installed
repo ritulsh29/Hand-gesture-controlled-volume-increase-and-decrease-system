@@ -1,0 +1,10 @@
+Start Pycharm
+
+Create a new .py file
+Go to File->Settings->Select/Add interpreter
+
+Click on + sign over there and search for packages
+
+opencv-python->Select->Install Package
+
+Repeat same for mediapipe and pyautogui packages
